@@ -17,7 +17,6 @@ import {
   Picker,
   Platform
 } from "react-native";
-import {Alert} from "react-native";
 
 const screen = Dimensions.get("window");
 
